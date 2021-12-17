@@ -1,5 +1,5 @@
 {
   "name": "ChessMove",
   "desc": "2000 games of chess visualized by the most common moves on every half turn",
-  "image": "TODO add image"
+  "image": "chess_move.png"
 }
